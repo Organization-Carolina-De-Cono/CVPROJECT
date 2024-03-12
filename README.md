@@ -46,8 +46,8 @@ Complete Functional BDD test coverage of the project.and live documentation
 ### TEST RESULTS
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
-* [Functional Test Results and Bug Report 1.1](/Test PDF/Functional tests results and bug report -release 1.1.- sprint 1.pdf) 
-* [Regression Test Results 1.1](/Tests PDF/Regression test result - release 1.1..pdf)
+* [Functional Test Results and Bug Report 1.1](/Tests PDF/Functional tests results and bug report - release 1.1. sprint 1.pdf) 
+* [Regression Test Results 1.1](/Tests PDF/Regression test result - release 1.1.pdf)
 
 ## AUTHOR
 Carolina De Cono, QA Engineer
