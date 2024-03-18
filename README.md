@@ -51,4 +51,4 @@ Functional and Regression test results and report for each project release.
 
 ## AUTHOR
 Carolina De Cono, QA Engineer
-[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
+[LinkedIn Profile](https://www.linkedin.com/in/carolina-de-cono-25ab69115/)
